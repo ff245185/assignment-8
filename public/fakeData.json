@@ -1,0 +1,68 @@
+[
+	{
+		"isActive": false,
+		"id": "63346f483dc25dcba3024fb8",
+		"img": "https://res.cloudinary.com/themirror/image/upload/c_scale,q_auto:good,w_3000/v1650580430/ecomm-cms-assets/production/classes/KickboxingDetail.jpg",
+		"age": 22,
+		"time": 60,
+		"name": "Kickboxing",
+		"learn": "Learn something new",
+		"beginer": "Beginner to Expert Levels",
+		"about": "Knock out stress and challenge yourself with MIRROR's kickboxing at-home classes that will have you feeling the burn. Punch & kick your way to victory as you move through sweaty, action packed rounds."
+	},
+	{
+		"isActive": true,
+		"id": "63346f4891d5e3d1700a4ed7",
+		"img": "https://res.cloudinary.com/themirror/image/upload/q_auto:good/v1650577659/ecomm-cms-assets/production/classes/PilatesDetail.jpg",
+		"age": 24,
+		"time": 47,
+		"name": "Pilates",
+		"learn": "Mat Pilates",
+		"beginer": "Beginner to Expert Levels",
+		"about": "Voluptate elit nostrud dolore magna officia pariatur consectetur nisi fugiat. Culpa nisi amet ut deserunt pariatur cupidatat tempor eu do ea cillum aliqua veniam occaecat. Occaecat proident enim cillum fugiat cillum fugiat sunt duis.\r\n"
+	},
+	{
+		"isActive": true,
+		"id": "63346f48570193dd16f8b4c2",
+		"img": "https://res.cloudinary.com/themirror/image/upload/c_scale,q_auto:good,w_3000/v1650579053/ecomm-cms-assets/production/classes/BoxingDetail.jpg",
+		"age": 33,
+		"time": 98,
+		"name": "Boxing",
+		"learn": "Learn boxing combos",
+		"beginer": "Beginner to Expert Levels",
+		"about": "Create your own boxing gym at home with MIRROR's online boxing classes for full-body strength and next-level endurance. Learn and perform punch combinations for a sweaty, high-intensity boxing workout or try a Boxing + Strength class combining traditional strength moves with boxing rounds."
+	},
+	{
+		"isActive": false,
+		"id": "63346f48a60d731495f76703",
+		"img": "https://res.cloudinary.com/themirror/image/upload/q_auto:good/v1651097425/ecomm-cms-assets/production/classes/Cardio_StrengthDetail.jpg",
+		"age": 30,
+		"time": 23,
+		"name": "Cardio + Strength",
+		"learn": "HIIT, Resistance Training",
+		"beginer": "Beginner to Expert Levels",
+		"about": "Take your at-home cardio exercises to the next level with MIRROR Cardio + Strength, a weight training take on fast-paced interval classes. In Cardio + Strength classes you'll combine traditional muscle-building moves with shorter cardio bursts."
+	},
+	{
+		"isActive": false,
+		"id": "63346f48d21db1ec70db7162",
+		"img": "https://res.cloudinary.com/themirror/image/upload/q_auto:good/v1651097885/ecomm-cms-assets/production/classes/Arms_AbsDetail.jpg",
+		"age": 35,
+		"time": 42,
+		"name": "Arms + Abs",
+		"learn": "Improve definition",
+		"beginer": "Beginner to Expert Levels",
+		"about": "For days with a focus on upper-body, check out MIRROR's abs and arms workouts for an at-home bodyweight or free weights burn."
+	},
+	{
+		"isActive": false,
+		"id": "63346f48d1ec70dfdfb7162",
+		"img": "https://res.cloudinary.com/themirror/image/upload/c_scale,q_auto:good,w_3000/v1651098649/ecomm-cms-assets/production/classes/SculptDetail.jpg",
+		"age": 35,
+		"time": 42,
+		"name": "Sculpt",
+		"learn": "Toning workout",
+		"beginer": "Beginner to Expert Levels",
+		"about": "Designed to create lean, toned muscles, MIRROR Sculpt classes combine elements from Barre, Pilates, Strength & Cardio, for a unique fitness experience. Using light weight, high rep work, get ready to feel your muscles burn."
+	}
+]
